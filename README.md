@@ -1,3 +1,4 @@
+```
 root
 ├── dist
 │   ├── index.html
@@ -191,3 +192,5 @@ root
     │   ├── jsons
     │   └── videos
     └── environments
+
+```
